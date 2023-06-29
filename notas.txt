@@ -1,5 +1,0 @@
-paiza.io #Para probar código desde la web
-
-
-python tutor #Para ir viendo paso a paso lo que hace un código
-https://pythontutor.com/visualize.html#mode=edit
